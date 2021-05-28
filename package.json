@@ -1,0 +1,26 @@
+{
+  "name": "video-streaming-nodejs-localfile",
+  "version": "1.0.0",
+  "description": "This app will send video from backend to frontend. Video is saved as a local file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jithinolickal/video-streaming-nodejs-localfile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jithinolickal/video-streaming-nodejs-localfile/issues"
+  },
+  "homepage": "https://github.com/jithinolickal/video-streaming-nodejs-localfile#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
